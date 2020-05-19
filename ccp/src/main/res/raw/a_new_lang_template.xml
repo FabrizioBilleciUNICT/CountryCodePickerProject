@@ -819,6 +819,11 @@
             phone_code="47" />
         <country
             name="TODO: replace with  translated country name"
+            english_name="None"
+            name_code="nn"
+            phone_code="999" />
+        <country
+            name="TODO: replace with  translated country name"
             english_name="Nepal"
             name_code="np"
             phone_code="977" />

@@ -818,6 +818,11 @@
             name_code="no"
             phone_code="47" />
         <country
+            name="None"
+            english_name="None"
+            name_code="nn"
+            phone_code="999" />
+        <country
             name="Nepal"
             english_name="Nepal"
             name_code="np"

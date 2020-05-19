@@ -817,6 +817,11 @@
             english_name="Norway"
             name_code="no"
             phone_code="47" />
+            <country
+            name="None"
+            english_name="None"
+            name_code="nn"
+            phone_code="999" />
         <country
             name="नेपाळ"
             english_name="Nepal"

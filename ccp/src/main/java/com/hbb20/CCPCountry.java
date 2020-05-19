@@ -722,6 +722,8 @@ public class CCPCountry implements Comparable<CCPCountry> {
                 return R.drawable.flag_netherlands;
             case "no": //norway
                 return R.drawable.flag_norway;
+            case "nn": //NO-SELECTION
+                return R.drawable.flag_none;
             case "np": //nepal
                 return R.drawable.flag_nepal;
             case "nr": //nauru
@@ -1578,6 +1580,7 @@ public class CCPCountry implements Comparable<CCPCountry> {
         countries.add(new CCPCountry("ni", "505", "Nicaragua", DEFAULT_FLAG_RES));
         countries.add(new CCPCountry("nl", "31", "Netherlands", DEFAULT_FLAG_RES));
         countries.add(new CCPCountry("no", "47", "Norway", DEFAULT_FLAG_RES));
+        countries.add(new CCPCountry("nn", "999", "None", DEFAULT_FLAG_RES));
         countries.add(new CCPCountry("np", "977", "Nepal", DEFAULT_FLAG_RES));
         countries.add(new CCPCountry("nr", "674", "Nauru", DEFAULT_FLAG_RES));
         countries.add(new CCPCountry("nu", "683", "Niue", DEFAULT_FLAG_RES));
