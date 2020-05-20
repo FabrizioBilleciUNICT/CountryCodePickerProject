@@ -818,8 +818,8 @@
         name_code="no"
         phone_code="47" />
         <country
-            name="None"
-            english_name="None"
+            name="-"
+            english_name="-"
             name_code="nn"
             phone_code="999" />
         <country

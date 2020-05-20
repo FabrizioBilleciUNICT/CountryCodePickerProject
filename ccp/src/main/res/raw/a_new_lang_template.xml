@@ -819,7 +819,7 @@
             phone_code="47" />
         <country
             name="TODO: replace with  translated country name"
-            english_name="None"
+            english_name="-"
             name_code="nn"
             phone_code="999" />
         <country
